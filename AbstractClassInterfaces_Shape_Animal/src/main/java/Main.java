@@ -66,7 +66,7 @@ public class Main {
 
         System.out.println();
 
-        Animal crocodile1 = new Crocodile();
+        Animal crocodile1 = new Crocodile(); //obiectul crocodile1 este de tipul Animal (pt ca mosteneste clasa Animal) si reprezinta o instanta a clasei Crocodile
         Animal dove1 = new Dove();
         Animal lizard1 = new Lizard();
         Animal tiger1 = new Tiger();
@@ -82,7 +82,7 @@ public class Main {
 
         System.out.println();
 
-        Carnivorous crocodile2 = new Crocodile();
+        Carnivorous crocodile2 = new Crocodile(); //obiectul crocodile2 este ce tipul Carnivorous (pt ca implementeaza interfata Carnivorous) si reprezinta o instanta a clasei Crocodile
         Domestic dove2 = new Dove();
         Omnivorous lizard2 = new Lizard();
         Carnivorous tiger2 = new Tiger();
