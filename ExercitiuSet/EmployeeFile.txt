@@ -1,0 +1,10 @@
+Ionescu,Marin,IT
+Popescu,Viorel,Vanzari
+Marinescu,Costel,IT
+Coman,Maria,Vanzari
+Constantin,Georgeta,IT
+Moldoveanu,Victor,Vanzari
+Ardeleanu,Ion,IT
+Dobrogeanu,Vasile,Vanzari
+Munteanu,Aura,IT
+Galateanu,George,Vanzari
