@@ -14,7 +14,7 @@ public class Main {
         //fiecare masina o sa aiba urm comportament:
         //poate fi vanduta in leasing -> putem lua de pe masina numarul de rate si cat valoreaza fiecare rata
         //la leasing trebuie sa aiba si un avans care scade din pretul total
-        //masinile pot fi comparate prin calitate -> depinde de anul de fabricatie
+        //masinile pot fi comparate prin calitate -> calitatea depinde de anul de fabricatie
         //masinile mai au un atribut (boolean) vandut
         //dupa ce setam campul vandut pe true, masinile vandute vor fi scrise intr-un alt fisier
         //la final afisam toate masinile vandute
@@ -59,7 +59,7 @@ public class Main {
                 Masina masina = new Masina(arrayWords[0], arrayWords[1], arrayWords[2], Integer.valueOf(arrayWords[3]), arrayWords[4], Integer.valueOf(arrayWords[5]));
                 System.out.println("Rata la masina " + masina.getMarca() + " " + masina.getModel() + " este: " + masina.payRate());
 
-                if(masina.getSold()== true){
+                if (masina.getSold() == true) {
                     bufferedWriterMasiniVandute.write(text);
                     bufferedWriterMasiniVandute.flush();
                     bufferedWriterMasiniVandute.newLine();
@@ -92,7 +92,8 @@ public class Main {
             bufferedWriterMasiniAltele.close();
 
 
-
+        } catch (IOException e) {
+            System.out.println("A aparut eroarea: " + e.getMessage());
 
         } catch (Exception e) {
             System.out.println("A aparut o eroare: " + e.getMessage());
