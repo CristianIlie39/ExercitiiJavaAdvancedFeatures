@@ -1,0 +1,15 @@
+Alimentare;Tomy;5;7;10
+Alimentare;Carne;3;25;20
+Alimentare;Paine;1;2;10
+Alimentare;Fructe;4;10;10
+Curatenie;Detergent;9;22;20
+Curatenie;Lenor;10;15;30
+Curatenie;Pur;6;8;30
+Curatenie;Domestos;7;13;20
+Curatenie;Clor;16;12;10
+Auto;Ulei;14;30;20
+Alimentare;Dulciuri;15;70;20
+Auto;Stergatoare;11;50;30
+Auto;Huse;13;80;10
+Auto;Cauciucuri;12;200;20
+Auto;Acumulatori;17;450;10
