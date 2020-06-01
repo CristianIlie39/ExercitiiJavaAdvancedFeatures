@@ -1,0 +1,12 @@
+Popescu;Marian;12;Informatica
+Ionescu;Maria;10;Germana
+Martinescu;Marius;11;Informatica
+Ardeleanu;Mihai;12;Germana
+Vranceanu;Miha;10;Informatica
+Dobrogeanu;Marian;12;MatematicaAplicata
+Caliopol;Violeta;11;Informatica
+Irimia;Marian;10;MatematicaAplicata
+Valdea;Dorina;11;Informatica
+Sandu;George;12;Germana
+Avramescu;Codrin;10;Informatica
+Lambru;Carmenn;12;MatematicaAplicata
