@@ -37,6 +37,7 @@ public class Main {
             optionalsMap.put("Germana", new ArrayList<Student>());
             optionalsMap.put("MatematicaAplicata", new ArrayList<Student>());
 
+            //le filtram in while
             while (text != null) {
                 String[] arrayWords = text.split(";");
                 Student student = new Student(arrayWords[0], arrayWords[1], arrayWords[2], arrayWords[3]);
