@@ -150,7 +150,7 @@ public class Main {
 
         } catch (FileNotFoundException e) {
             System.out.println("Fisierul nu este gasit " + e.getMessage());
-        }catch (IOException e) {
+        } catch (IOException e) {
             System.out.println("A aparut o eroare " + e.getMessage());
         }
 
