@@ -1,0 +1,5 @@
+Intr-un fisier pe fiecare rand exista cate un televizor in formatul de mai jos; in fisier avem cel putin 10 randuri. 
+- marca
+- model
+- diagonala
+Sa se citeasca televizoarele din fisier si sa se afiseze in ordinea descrescatoare a diagonalei.
